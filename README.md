@@ -1,2 +1,2 @@
-# java-study-practices
+# Java Study Practices
 Study of Java best practices
